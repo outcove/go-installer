@@ -1,0 +1,2 @@
+# go-installer
+Installs Go
