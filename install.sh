@@ -1,5 +1,7 @@
 #!/bin/bash
 
+GO_VERSION=1.13.7
+
 if [[ -f "/usr/local/go" ]]
 then
     echo "Go already installed."
